@@ -1,4 +1,4 @@
-          /* Font Reference */
+/* Font Reference */
 /* font-family: Sigmar One, cursive; */
 /* font-family: Georgia, sans-serif */
 
@@ -16,14 +16,14 @@ html {
 body {
   margin: 0;
 }
-      /* Header Styling */
+/* Header Styling */
 
 header {
   background-color: #ffe500;
 }
 
 h1 {
-  font-family: Sigmar One, cursive;
+  font-family: "Sigmar One", cursive;
   text-align: center;
   color: #b20953;
   font-size: 3rem;
@@ -60,20 +60,23 @@ a:hover {
   background-color: #b20953;
 }
 
-      /* Main Styling */
+/* Main Styling */
 
 h2 {
   display: inline-block;
-  font-family: Sigmar One, cursive;
+  font-family: "Sigmar One", cursive;
   text-align: left;
   color: #b20953;
   font-size: 1.875rem;
-  margin: 1em .3em .3em;
+  margin: .3em;
+  margin-bottom: 0;
+  padding: .75em 0;
 }
 
 img {
+  display: block;
   width: 100%;
-  padding: .75em;
+  padding: 0 .75em;
 }
 
 main p {
