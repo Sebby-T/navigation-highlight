@@ -1,0 +1,11 @@
+          /* Font Reference */
+/* font-family: Sigmar One, cursive; */
+/* font-family: Georgia, sans-serif */
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
